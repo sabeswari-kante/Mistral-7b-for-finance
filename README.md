@@ -1,4 +1,4 @@
-# Mistral--7b-for-finance
+# Mistral-7b-for-finance
 
 
 
