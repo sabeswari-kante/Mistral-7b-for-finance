@@ -1,0 +1,10 @@
+torch
+unsloth[kaggle-new] @ git+https://github.com/unslothai/unsloth.git
+transformers
+triton
+xformers
+peft
+accelerate
+bitsandbytes
+datasets
+huggingface_hub
